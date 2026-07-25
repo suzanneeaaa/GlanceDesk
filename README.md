@@ -1,2 +1,2 @@
 # GlanceDesk
-GlanceDesk is an ultra-compact, distraction-free desktop companion designed to replace smartphone friction with effortless, glanceable information.
+GlanceDesk is an ultra-compact, distraction-free desktop companion designed to replace smartphone friction with effortless, glanceable information. Featuring a zero-glare e-paper display, ambient lighting, and audio, it sits seamlessly on your desk or nightstand to bring real-time utility, including live bus countdowns, weather, alarms, active AI task progress, and voice summaries, directly into your line of sight. It delivers the quick answers you need throughout your day, keeping you informed without pulling you into a black hole of phone notifications.
