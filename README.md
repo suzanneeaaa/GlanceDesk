@@ -11,15 +11,17 @@ GlanceDesk is a compact, battery-powered desktop cube with a zero-glare e-paper 
 4. **Portable & Low Friction:** Battery-powered, ultra-low power e-paper display designed to go anywhere in the house or while traveling.
 
 ## 📂 Repo Map
+```text
 GlanceDesk/
 ├── .gitignore
 ├── CHANGELOG.md
 ├── LICENSE
 ├── README.md
 ├── docs/
-│   ├── HARDWARE.md     
-│   ├── OVERVIEW.md     
-│   └── ROADMAP.md      
-├── firmware/           
-├── hardware/            
-└── sdk/                
+│   ├── HARDWARE.md
+│   ├── OVERVIEW.md
+│   └── ROADMAP.md
+├── firmware/
+├── hardware/
+└── sdk/
+```
