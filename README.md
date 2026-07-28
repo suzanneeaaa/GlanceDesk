@@ -18,9 +18,11 @@ GlanceDesk/
 ├── LICENSE
 ├── README.md
 ├── docs/
+│   ├── CAD_DESIGN.md    
 │   ├── HARDWARE.md
 │   ├── OVERVIEW.md
-│   └── ROADMAP.md
+│   ├── ROADMAP.md
+│   └── SOFTWARE.md      
 ├── firmware/
 ├── hardware/
 └── sdk/
