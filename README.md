@@ -11,12 +11,15 @@ GlanceDesk is a compact, battery-powered desktop cube with a zero-glare e-paper 
 4. **Portable & Low Friction:** Battery-powered, ultra-low power e-paper display designed to go anywhere in the house or while traveling.
 
 ## 📂 Repo Map
-
-| Path | What's in it |
-| `hardware/` | CAD files (3D printable chassis), PCB schematics, and BOM |
-| `firmware/` | ESP32 source code (Arduino / C++ framework, display & sensor drivers) |
-| `sdk/` | Python/Node.js SDK for piping AI agent metrics and local logs |
-| `docs/OVERVIEW.md` | Product vision, problem statement, and core user workflows |
-| `docs/HARDWARE.md` | Electronics assembly guide, pinout tables, and component list |
-| `docs/ROADMAP.md` | Phase milestones from breadboard POC to production |
-| `CHANGELOG.md` | Release history (SemVer) |
+GlanceDesk/
+├── .gitignore
+├── CHANGELOG.md
+├── LICENSE
+├── README.md
+├── docs/
+│   ├── HARDWARE.md     
+│   ├── OVERVIEW.md     
+│   └── ROADMAP.md      
+├── firmware/           
+├── hardware/            
+└── sdk/                
