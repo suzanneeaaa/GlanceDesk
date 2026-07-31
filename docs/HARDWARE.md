@@ -15,7 +15,7 @@
 | **GPIO Expander (contingency)** | PCF8574 or MCP23017 (I2C)| Add only if final pin count for I2S + LED + button comes up short once GPIO33–37 (Octal PSRAM) and GPIO26-32 (flash/PSRAM) are excluded | 1 |
 | **Enclosure** | Custom 3D Printed |~135 mm x 80 mm x 65 mm box housing with translucent top rim diffuser for LED ring. | 1 |
 
-
+📐Dimensions
 | Component | Part / Specification | Dimensions (L × W × H) | Notes |
 | :--- | :--- | :--- | :--- |
 | **Main Board** | LilyGO T5 4.7" E-Paper V2.4 (Touch) | ~121 × 67 mm (board), panel is 4.7" diagonal, 540×960px | Board thickness with connectors/battery clip is roughly 8–10mm |
